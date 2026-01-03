@@ -1,0 +1,7 @@
+json
+{
+  "name": "chatbot-ia",
+  "version": "1.0.0",
+  "description": "Chatbot con Claude IA",
+  "private": true
+}
